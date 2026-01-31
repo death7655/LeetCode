@@ -7,6 +7,7 @@ A repository containing code with leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/death7655/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/death7655/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/death7655/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/death7655/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
@@ -17,6 +18,7 @@ A repository containing code with leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/death7655/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/death7655/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/death7655/LeetCode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
