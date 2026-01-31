@@ -20,4 +20,12 @@ A repository containing code with leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/death7655/LeetCode/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/death7655/LeetCode/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/death7655/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
