@@ -9,6 +9,7 @@ A repository containing code with leetcode
 | [0015-3sum](https://github.com/death7655/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/death7655/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/death7655/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/death7655/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/death7655/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -25,6 +26,7 @@ A repository containing code with leetcode
 | ------- |
 | [0015-3sum](https://github.com/death7655/LeetCode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/death7655/LeetCode/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/death7655/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A repository containing code with leetcode
 | ------- |
 | [0242-valid-anagram](https://github.com/death7655/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/death7655/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/death7655/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
