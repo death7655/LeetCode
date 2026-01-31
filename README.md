@@ -27,6 +27,7 @@ A repository containing code with leetcode
 | ------- |
 | [0009-palindrome-number](https://github.com/death7655/LeetCode/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/death7655/LeetCode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/death7655/LeetCode/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A repository containing code with leetcode
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/death7655/LeetCode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/death7655/LeetCode/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A repository containing code with leetcode
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/death7655/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/death7655/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
