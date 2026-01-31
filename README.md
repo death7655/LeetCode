@@ -20,6 +20,7 @@ A repository containing code with leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/death7655/LeetCode/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/death7655/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -28,4 +29,12 @@ A repository containing code with leetcode
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/death7655/LeetCode/tree/master/0326-power-of-three) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/death7655/LeetCode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/death7655/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
