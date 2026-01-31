@@ -8,6 +8,7 @@ A repository containing code with leetcode
 | ------- |
 | [0015-3sum](https://github.com/death7655/LeetCode/tree/master/0015-3sum) |
 | [0416-partition-equal-subset-sum](https://github.com/death7655/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/death7655/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A repository containing code with leetcode
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/death7655/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/death7655/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
