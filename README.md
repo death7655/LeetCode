@@ -25,6 +25,7 @@ A repository containing code with leetcode
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/death7655/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/death7655/LeetCode/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/death7655/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/death7655/LeetCode/tree/master/0412-fizz-buzz) |
