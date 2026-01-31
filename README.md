@@ -17,6 +17,7 @@ A repository containing code with leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/death7655/LeetCode/tree/master/0015-3sum) |
+| [0344-reverse-string](https://github.com/death7655/LeetCode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A repository containing code with leetcode
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/death7655/LeetCode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/death7655/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/death7655/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/death7655/LeetCode/tree/master/0412-fizz-buzz) |
 ## Linked List
